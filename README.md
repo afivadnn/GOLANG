@@ -27,17 +27,12 @@ GOLANG/
 └── README.md
 
 🛠️ How to Run Code Locally
-Clone repository ini:
-
-Bash
+1. Clone repository ini:
 git clone [https://github.com/afivadnn/GOLANG.git](https://github.com/afivadnn/GOLANG.git)
 cd GOLANG
 
-Jalankan file kode tertentu:
-
-Bash
+2. Jalankan file kode tertentu:
 go run Module-02/01-Penjumlahan/main.go
-
 
 📚 Resources & References
 Official Go Documentation
