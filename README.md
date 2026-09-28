@@ -1,29 +1,49 @@
-# Praktikum Algoritma & Pemrograman - Modul 02 (Golang)
+# 🐹 Go Learning Journey
 
-Repository ini berisi kumpulan solusi kode untuk tugas dan latihan pada **Modul 02** menggunakan bahasa pemrograman **Go (Golang)**. Setiap program ditempatkan dalam direktori terisolasi dengan struktur *package* mandiri sesuai dengan standar konvensi Go.
+[![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://golang.org/)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](#)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+Repository ini dibuat untuk mendokumentasikan progres belajar, latihan kode, catatan konsep, dan tugas berbasis bahasa pemrograman **Go (Golang)**. 
 
 ---
 
-##  Struktur Direktori
+## 📌 Repository Structure
+
+Struktur folder saat ini difokuskan pada penyelesaian modul praktikum dan akan terus berkembang seiring berjalannya proses belajar.
 
 ```text
 GOLANG/
-├── Module-02/
-│   ├── 01-Penjumlahan/   # Operasi aritmatika penjumlahan dasar
-│   ├── 02-Fungsi/        # Deklarasi dan implementasi fungsi
-│   ├── 03-ASCII/         # Pengolahan & konversi nilai karakter ASCII
-│   ├── 04-Biodata/       # Program input/output data diri
-│   ├── 05-Konversi/      # Konversi satuan & tipe data
-│   ├── 06-Lingkaran/     # Perhitungan luas dan keliling lingkaran
-│   └── 07-VarMove/       # Pertukaran nilai variabel (variable swapping)
+├── Module-02/                # Dasar-dasar Pemrograman Go
+│   ├── 01-Penjumlahan/       # Operasi aritmatika dasar
+│   ├── 02-Fungsi/            # Implementasi fungsi dasar
+│   ├── 03-ASCII/             # Konversi dan manipulasi karakter ASCII
+│   ├── 04-Biodata/           # Input/Output data pengguna (CLI)
+│   ├── 05-Konversi/          # Type casting dan konversi satuan
+│   ├── 06-Lingkaran/         # Kalkulasi matematika dan geometri
+│   └── 07-VarMove/           # Algoritma pertukaran nilai variabel
 ├── .gitignore
 ├── go.mod
 └── README.md
 
-Rincian ProgramNoFolderDeskripsi SingkatEntry Point101-PenjumlahanPenggunaan operator aritmatika penjumlahanmain.go202-FungsiModularisasi kode dengan fungsi di Gomain.go303-ASCIIManipulasi & representasi karakter ASCIImain.go404-BiodataFormat I/O data profil penggunamain.go505-KonversiLogika konversi tipe data dan satuan angkamain.go606-LingkaranKalkulasi geometri luas dan kelilingmain.go707-VarMoveAlgoritma pertukaran nilai antar variabelmain.go🚀 Prasyarat & Cara MenjalankanPrasyaratGo SDK: Versi 1.20 atau lebih baru (Unduh Go)Eksekusi ProgramClone repository ini:Bashgit clone [https://github.com/afivadnn/GOLANG.git](https://github.com/afivadnn/GOLANG.git)
-cd GOLANG
-Masuk ke folder program yang ingin dijalankan (contoh: 01-Penjumlahan):Bashcd Module-02/01-Penjumlahan
-Jalankan kode:Bashgo run main.go
+🛠️ How to Run Code Locally
+Clone repository ini:
 
-Penulis
-Afiv Adnan Rozaky - Telkom University Purwokerto
+Bash
+git clone [https://github.com/afivadnn/GOLANG.git](https://github.com/afivadnn/GOLANG.git)
+cd GOLANG
+
+Jalankan file kode tertentu:
+
+Bash
+go run Module-02/01-Penjumlahan/main.go
+
+
+📚 Resources & References
+Official Go Documentation
+
+Go by Example
+
+A Tour of Go
+
+Created by Afiv Adnan Rozaky - Telkom University Purwokerto
