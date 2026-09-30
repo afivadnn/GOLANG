@@ -1,6 +1,6 @@
 # 🐹 Go Learning Journey
 
-[![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://golang.org/)
+[![Go Version](https://img.shields.io/badge/Go-1.27+-00ADD8?style=flat&logo=go)](https://golang.org/)
 [![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
