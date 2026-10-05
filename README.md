@@ -21,7 +21,11 @@ GOLANG/
 │   ├── 04-Biodata/           # Input/Output data pengguna (CLI)
 │   ├── 05-Konversi/          # Type casting dan konversi satuan
 │   ├── 06-Lingkaran/         # Kalkulasi matematika dan geometri
-│   └── 07-VarMove/           # Algoritma pertukaran nilai variabel
+│   |── 07-VarMove/           # Algoritma pertukaran nilai variabel
+│   └── 08-Guided/                           # Casting experiment
+│       ├──01-Kubus/                         # Perhitungan kubus
+│       ├──02-Segitiga/                      # Perhitungan segitiga
+│       ├──03-Kurs/                          # Perhitungan kurs tukar
 ├── .gitignore
 ├── go.mod
 └── README.md
