@@ -1,0 +1,12 @@
+program pangkat
+kamus
+	a,b,i : integer
+	hasil : integer = 1
+algoritma 
+	input(a,b)
+	for i = 1 to b do
+		hasil = hasil * a
+	endfor
+	output(hasil)
+endprogram
+	

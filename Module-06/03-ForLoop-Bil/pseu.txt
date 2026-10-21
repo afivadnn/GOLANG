@@ -1,0 +1,9 @@
+program bil
+kamus
+	a, b, i : integer
+algoritma
+	input(a, b)
+	for i = a to b do
+		output(i, " ")
+	endfor
+endprogram
