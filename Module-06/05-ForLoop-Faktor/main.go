@@ -1,9 +1,6 @@
 package main
 
-import (
-	"fmt"
-)
-
+import "fmt"
 func main() {
     var a, i, hasil int
     fmt.Scan(&a)
